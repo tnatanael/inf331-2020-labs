@@ -1,18 +1,18 @@
 # Projeto Orange / Regras de Associação para Foodmart
 
 ## Imagem do Projeto
-> ![Projeto no Foodmart](/lab01/images/Foodmart.png)
+![Foodmart](/lab01/images/foodmart.png)
 
 ## Arquivo do Projeto
-> Coloque um link para o arquivo em Orange.
+[Foodmart OWS](/lab01/orange/foodmart.ows)
 
 # Projeto Orange / Análise de Dados do Google PlayStore
 
 ## Imagem do Projeto
-> Coloque uma imagem da captura de tela com o projeto do Orange.
+![Gplay](/lab01/images/gplay.png)
 
 ## Arquivo do Projeto
-> Coloque um link para o arquivo em Orange.
+[Gplay OWS](/lab01/orange/gplay.ows)
 
 ## Gráfico(s) de Análise
 > Apresente a seguir o(s) gráfico(s) de análise produzidos (se houver) com legendas.
