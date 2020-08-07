@@ -1,7 +1,7 @@
 # Projeto Orange / Regras de Associação para Foodmart
 
 ## Imagem do Projeto
-> Coloque uma imagem da captura de tela com o projeto do Orange.
+> ![Projeto no Foodmart](/lab01/images/Foodmart.png)
 
 ## Arquivo do Projeto
 > Coloque um link para o arquivo em Orange.
