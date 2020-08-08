@@ -29,6 +29,7 @@
 ~~~
 
 ## Tarefa Web Components 2
+~~~html
 <dcc-trigger label="Next Item" action="next/rss"></dcc-trigger>
 
 <dcc-rss publish="rss/science" source="https://www.wired.com/category/science/feed">
@@ -63,3 +64,4 @@
                  speech="">
   <subscribe-dcc topic="rss/design"></subscribe-dcc>
 </dcc-lively-talk>
+~~~
