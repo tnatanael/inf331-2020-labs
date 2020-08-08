@@ -18,7 +18,7 @@
 <dcc-lively-talk duration="0s"
                  character="nurse"
                  speech="">
-  <subscribe-dcc topic="noticia/brasil/#"></subscribe-dcc>
+  <subscribe-dcc topic="noticia/b#/#"></subscribe-dcc>
 </dcc-lively-talk>
 
 <dcc-lively-talk duration="0s"
