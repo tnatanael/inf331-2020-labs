@@ -24,10 +24,8 @@
 
 ## Diagrama de Componentes
 
-![Pedidos](/lab01/images/pedidos-component.png)
+![Pedidos Component](/lab01/images/pedidos-component.png)
 
 ## Diagrama de Interfaces
 
-> Imagem (`PNG`) do detalhamento de interfaces referentes aos componentes.
-
-<hr>
+![Pedidos Uml](/lab01/images/pedidos-uml-interfaces.png)
