@@ -24,7 +24,7 @@
 
 ## Diagrama de Componentes
 
-> Imagem (`PNG`) do diagrama de componentes do pedido de um produto (veja exemplos abaixo).
+![Pedidos](/lab01/images/pedidos-component.png)
 
 ## Diagrama de Interfaces
 
