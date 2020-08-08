@@ -18,7 +18,7 @@
 ![Gplay](/lab01/images/gplay-graphs.png)
 
 # Projeto de Composição de Componentes para Recomendação
-![Recomendation](/lab01/images/recomendation.png.png)
+![Recomendation](/lab01/images/recomendation.png)
 
 # Projeto de Composição de Componentes para Pedido
 
