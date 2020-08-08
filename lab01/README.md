@@ -15,7 +15,7 @@
 [Gplay OWS](/lab01/orange/gplay.ows)
 
 ## Gráfico(s) de Análise
-> Apresente a seguir o(s) gráfico(s) de análise produzidos (se houver) com legendas.
+![Gplay](/lab01/images/gplay-graphs.png)
 
 # Projeto de Composição de Componentes para Recomendação
 
