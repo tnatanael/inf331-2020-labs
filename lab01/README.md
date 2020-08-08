@@ -18,8 +18,7 @@
 ![Gplay](/lab01/images/gplay-graphs.png)
 
 # Projeto de Composição de Componentes para Recomendação
-
-> Imagem (`PNG`) do diagrama de componentes (veja exemplos abaixo).
+![Recomendation](/lab01/images/recomendation.png.png)
 
 # Projeto de Composição de Componentes para Pedido
 
