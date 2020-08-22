@@ -1,9 +1,7 @@
 # Apresentação do Lab03 - Model-View-Controller
 
 ## Tarefa 1
-> Coloque a imagem do PRNG do seu diagrama como ilustrado abaixo:
-> 
-> ![Diagrama de Orquestração](images/orquestracao.png)
+![Diagrama de Orquestração](images/tarefa1.png)
 
 ## Tarefa 2
 ![Diagrama de Coreografia](images/tarefa2.png)
